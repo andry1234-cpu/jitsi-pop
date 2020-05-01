@@ -27,6 +27,8 @@
         "https://meet.jit.si/*",
         "https://8x8.vc/*",
         "https://jitsi.riot.im/*"
+        "https://dedguest.online/*"
+
       ],
       "run_at": "document_start",
       "match_about_blank": true,
